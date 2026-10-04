@@ -1,0 +1,7 @@
+1 - Chercher a documenter swagger
+    * trace d'erreur
+    * le champ concerne
+    * corriger l'erreur
+    * Creer un utilisateur, modifier ses champs
+    * Boutique egalement
+    * Puis les lister.
